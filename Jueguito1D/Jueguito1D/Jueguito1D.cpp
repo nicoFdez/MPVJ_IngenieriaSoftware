@@ -28,8 +28,8 @@ int main()
         }
 
         if (c == 'l') {
-            if(world[1] == 'E') world[1] = '_';
-            else world[1] = '-';
+            //if(world[1] == 'E') world[1] = '_';
+            //else world[1] = '-';
         }
 
         if (world[1] == 'E') {
