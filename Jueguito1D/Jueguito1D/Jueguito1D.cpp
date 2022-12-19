@@ -5,7 +5,7 @@
 #include <conio.h>
 #include <Windows.h>
 
-constexpr unsigned int worldSize = 20;
+constexpr unsigned int worldSize = 30;
 
 int main()
 {
